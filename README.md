@@ -27,7 +27,11 @@ npm install
 3. Set up your environment variables in a `.env` file:
 
 SENDGRID_API_KEY=your_sendgrid_api_key
+
+
 MONGODB_URI=mongodb://localhost:27017/emailNotificationSystem
+
+
 PORT=3000
 
 4. Start the application:
