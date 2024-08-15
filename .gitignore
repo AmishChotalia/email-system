@@ -1,0 +1,11 @@
+# Node.js dependencies
+/node_modules/
+
+# Environment variables
+.env
+
+# npm package-lock
+package-lock.json
+
+# Queue file used by processQueue
+/utils/queue.json
