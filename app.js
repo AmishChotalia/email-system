@@ -32,8 +32,8 @@ app.listen(PORT, () => {
     }
   };
 
-  // Process the queue every 10 seconds
-  const interval = 10 * 1000;
+  // Process the queue every 25 seconds
+  const interval = 25 * 1000;
   setInterval(processQueuePeriodically, interval);
 
   // Initial queue processing on startup
