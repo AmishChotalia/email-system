@@ -15,6 +15,8 @@ This is an email notification system built using Node.js, MongoDB, and SendGrid.
 1. Clone the repository:
 
 git clone https://github.com/AmishChotalia/email-system.git
+
+
 cd email-notification-system
 
 
